@@ -1,0 +1,2 @@
+D:\Users\Jono\Documents\Visual Studio 2010\Projects\Watch Your Back\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\Visual Studio\Watch Your Back\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
